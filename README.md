@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rania
-- 👀 I’m interested in Coding
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning about Blockchain 
 - 📫 rawan_ben_2002@yahoo.com
 
