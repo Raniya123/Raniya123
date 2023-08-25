@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rania
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning about Blockchain 
 - 📫 rania_benotman@proton.me
 
 <!---
