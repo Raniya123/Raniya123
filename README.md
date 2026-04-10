@@ -16,8 +16,6 @@
 
 I'm a full-stack engineer and founder with 5+ years of experience shipping production-grade web and mobile apps. Currently building an **AI-powered SaaS product** at [NeptuneBlue Technology Ltd](https://neptuneblue.technology) (UK), featuring RAG pipelines, multi-tenant architecture, and CI/CD from the ground up.
 
-Previously shipped Flutter apps to **50,000+ active users** and delivered high-traffic enterprise campaigns for global brands including Kinder.
-
 - 🏗️ **Currently building:** AI SaaS @ NeptuneBlue — React/TypeScript + FastAPI + RAG (GPT-4o & Qwen3)
 - 🎓 **Studying:** BASc Applied Artificial Intelligence — IU International University, Berlin
 - 🏆 **Top 50 out of 1,000,000** — UAE One Million Arab Coders (Dubai Future Foundation)
